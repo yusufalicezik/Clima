@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  WeatherApp
-//
-//  Created by Angela Yu on 23/08/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
-//
+
 
 import UIKit
 import CoreLocation
@@ -111,7 +105,7 @@ class WeatherViewController: UIViewController, CLLocationManagerDelegate, Change
     }
     
     
-    
+      //
     
     
     //MARK: - Location Manager Delegate Methods
